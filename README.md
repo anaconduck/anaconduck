@@ -1,4 +1,3 @@
-<img align='right' src = "https://github.com/myarist/github-stats-transparent/blob/output/generated/overview.svg">
 
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Wahyu Kusuma 🧑🏻
 

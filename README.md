@@ -1,5 +1,5 @@
 
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Wahyu Kusuma 🧑🏻
+# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Wahyu Kusuma Wardhana🧑🏻
 
 <p align="justify">
  I am a Master's student specializing in Data Science, with a strong background in Machine Learning, Deep Learning, and Artificial Intelligence. I previously completed a research internship at the SANKEN Lab, Osaka University. With hands-on experience from various bootcamps and intensive training, I am passionate about leveraging data-driven solutions and building intelligent applications.

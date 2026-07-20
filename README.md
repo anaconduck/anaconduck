@@ -4,7 +4,7 @@
 
 I'm a Master's Student in Computer Science at <b>Brawijaya University</b> specializing in <b>Data Science</b>, with a strong passion for <b>Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Large Language Models (LLMs)</b>.
 
-Previously, I was a <b>Research Intern at SANKEN Laboratory, Osaka University</b>, where I gained experience conducting AI research in an international academic environment. Through research, intensive bootcamps, and hands-on projects, I have developed expertise in designing and deploying end-to-end AI solutions—from data preprocessing and model development to MLOps and production deployment.
+Previously, I was a <b>Research Intern at SANKEN Laboratory, Osaka University</b>, where I gained experience conducting AI research in an international academic environment. Through research, intensive bootcamps, and hands-on projects, I have developed expertise in designing and deploying end-to-end AI solutions from data preprocessing and model development to MLOps and production deployment.
 
 I am passionate about applying cutting-edge AI technologies to solve real-world problems and continuously exploring new advancements in Generative AI, Retrieval-Augmented Generation (RAG), and intelligent systems.
 
